@@ -1,0 +1,23 @@
+{
+  "name": "req-header-parser",
+  "version": "1.0.0",
+  "description": "### User Story:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreyjsax/req-header-parser.git"
+  },
+  "author": "Corey Sax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreyjsax/req-header-parser/issues"
+  },
+  "homepage": "https://github.com/coreyjsax/req-header-parser#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
